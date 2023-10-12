@@ -1,4 +1,8 @@
-### _Disclaimer: This is currently a Pilot Program and this file may change based on the results and feedback._
+<!---
+The DEI.md file was originally developed in the CHAOSS project and is licensed under an MIT licence.
+-->
+
+### _This file is no longer relevant. Please use [Template.DEI.md](https://github.com/AllInOpenSource/ProjectBadging/blob/main/Template.DEI.md) and [Guide.DEI.md](https://github.com/AllInOpenSource/ProjectBadging/blob/main/Guide.DEI.md) for clarity on developing your own DEI.md file._
 
 # DEI Project Statement
 
